@@ -1,4 +1,4 @@
-module github.com/candostyavuz/tendermint-kvstore
+module github.com/candostyavuz/kvstore
 
 go 1.19
 
